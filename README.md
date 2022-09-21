@@ -4,7 +4,7 @@ credit card debt or not. Checked the basic measures of descriptive statistics fo
 student, balance, income). Carried out Univariate Analysis and Bivariate Analysis. Checked for correlation
 between independent variables. Checked the missing values. Treated outliers present in the ’balance’ variable.
 
-# Observations
+## Observations
 Defaulters seem to have higher outstanding balance compared non-defaulters. Defaulters’ income seems lower
 compared to non-defaulters.
 Implemented logistic Regression model. Accuracy of the model was 88%
