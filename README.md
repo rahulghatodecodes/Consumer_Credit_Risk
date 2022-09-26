@@ -1,10 +1,10 @@
-# Consumer_Credit_Risk
+# Consumer Credit Risk
 
 ## Overview
 The data frame contains of 10k customers having records of whether customers defaulted on their credit card debt or not. We can break down the data frame into 4 variables:
 - Default:  A factor with levels No and Yes indicating whether the customer defaulted on their debt
 - Student:  A factor with levels No and Yes indicating whether the customer is a student
-- Balance: The average balance that the customer has remaining on their credit card after making their monthly payment
+- Balance:  The average balance that the customer has remaining on their credit card after making their monthly payment
 - Income:   Income of customer
 
 ## Action
