@@ -8,7 +8,8 @@ The data frame contains of 10k customers having records of whether customers def
 - Income:   Income of customer
 
 ## Objective
-
+- Exploratory Data Analysis
+- Implement a Logistic Regression Model
 
 ## Programming Language & Tools
 - Python 
@@ -22,14 +23,12 @@ The data frame contains of 10k customers having records of whether customers def
 - Checked the missing values. 
 - Treated outliers present in the ’balance’ variable.
 
-## Observations
+## Inference
 - Defaulters seem to have higher outstanding balance compared non-defaulters. 
 - Defaulters’ income seems lower compared to non-defaulters.
 
 ## Results
 Implemented logistic Regression model. Accuracy of the model was 88%.
-
-
 
 
 
