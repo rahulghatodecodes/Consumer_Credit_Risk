@@ -11,25 +11,23 @@ The data frame contains of 10k customers having records of whether customers def
 
 
 ## Programming Language & Tools
--Python 
--Jupyter Notebook
--MS Excel
+- Python 
+- Jupyter Notebook
+- MS Excel
 
 ## Actions
--Checked the basic measures of descriptive statistics for the continuous variables(default,
-student, balance, income). 
--Carried out Univariate Analysis and Bivariate Analysis. 
--Checked for correlation between independent variables. 
--Checked the missing values. 
--Treated outliers present in the ’balance’ variable.
+- Checked the basic measures of descriptive statistics for the continuous variables(default, student, balance, income). 
+- Carried out Univariate Analysis and Bivariate Analysis. 
+- Checked for correlation between independent variables. 
+- Checked the missing values. 
+- Treated outliers present in the ’balance’ variable.
 
 ## Observations
--Defaulters seem to have higher outstanding balance compared non-defaulters. 
--Defaulters’ income seems lower
-compared to non-defaulters.
+- Defaulters seem to have higher outstanding balance compared non-defaulters. 
+- Defaulters’ income seems lower compared to non-defaulters.
 
 ## Results
--Implemented logistic Regression model. Accuracy of the model was 88%.
+Implemented logistic Regression model. Accuracy of the model was 88%.
 
 
 
