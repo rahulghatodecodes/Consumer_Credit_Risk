@@ -25,6 +25,7 @@ We have two categorical columns(Default, Student) and two numerical columns(Bala
 - Carried out Univariate Analysis and Bivariate Analysis.
 - Checked for correlation between independent variables. 
 - Checked the missing values. 
+- Calculated Interquartile range
 - Treated outliers present in the ’balance’ variable.
 - Converted Categorical Variables to Numeric variables.
 - Created train and test set.
@@ -33,7 +34,7 @@ We have two categorical columns(Default, Student) and two numerical columns(Bala
 ## Inferences
 - Defaulters seem to have higher outstanding balance compared non-defaulters. 
 - Few customers have probably borrowed a small amount and not been able to pay back the small amount. If the customer has borrowed around $1000, repaid $300 and not repaid $700 (outlier).
-- Whether the person defaults or not, the average income probably seems to be the same.
+- Defaulters' income seems lower compared to non-defaulters.
 - The range of income is higher for those who do not default.
 - If the person is not a student, then there is 97% chance the person will not default and 3% chance the person will default.
 - If the person is a student, then there is 96% chance the person will not default and 4% chance the person will default.
