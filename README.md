@@ -31,12 +31,8 @@ We have two categorical columns(Default, Student) and two numerical columns(Bala
 - Created a confusion matrix.
 
 ## Inferences
-- Minimum & Maximum outstanding balance of the customer is $0 and $2654.32 respectively.
-- Minimum & Maximum income of the customer is $771.97 and $73554.23 respectively.
-- Out of 10k customers, 2944 are students and 7056 are not students.
-- Out of 10k customers, 333 would default and 9667 would not default.
 - Defaulters seem to have higher outstanding balance compared non-defaulters. 
-- Some customers have probably borrowed a small amount and not been able to pay back the small amount. If the customer has borrowed around $1000, repaid $300 and not repaid $700 (outlier).
+- Few customers have probably borrowed a small amount and not been able to pay back the small amount. If the customer has borrowed around $1000, repaid $300 and not repaid $700 (outlier).
 - Whether the person defaults or not, the average income probably seems to be the same.
 - The range of income is higher for those who do not default.
 - If the person is not a student, then there is 97% chance the person will not default and 3% chance the person will default.
