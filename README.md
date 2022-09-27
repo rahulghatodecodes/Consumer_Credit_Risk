@@ -35,15 +35,13 @@ We have two categorical columns(Default, Student) and two numerical columns(Bala
 - Minimum & Maximum income of the customer is $771.97 and $73554.23 respectively.
 - Out of 10k customers, 2944 are students and 7056 are not students.
 - Out of 10k customers, 333 would default and 9667 would not default.
-- If a person defaults, then the median outstanding balance is higher than the person who doesn't default.
+- Defaulters seem to have higher outstanding balance compared non-defaulters. 
 - Some customers have probably borrowed a small amount and not been able to pay back the small amount. If the customer has borrowed around $1000, repaid $300 and not repaid $700 (outlier).
 - Whether the person defaults or not, the average income probably seems to be the same.
 - The range of income is higher for those who do not default.
 - If the person is not a student, then there is 97% chance the person will not default and 3% chance the person will default.
 - If the person is a student, then there is 96% chance the person will not default and 4% chance the person will default.
 - Correlation between two numerical columns(balance & income), not much correlation found.
-- Defaulters seem to have higher outstanding balance compared non-defaulters. 
-- Defaulters’ income seems lower compared to non-defaulters.
 
 ## Results
 Implemented logistic Regression model. Accuracy of the model was 88%.
