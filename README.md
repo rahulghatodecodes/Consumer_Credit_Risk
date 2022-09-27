@@ -4,10 +4,10 @@
 The data frame contains of 10k customers having records of whether customers defaulted on their credit card debt or not. We can break down the data frame into 4 variables:
 - Default:  A factor with levels No and Yes indicating whether the customer defaulted on their debt.
 - Student:  A factor with levels No and Yes indicating whether the customer is a student.
-- Balance:  The average balance that the customer has remaining on their credit card after making their monthly payment.
+- Balance:  The average balance that the customer has remaining on their credit card after making their monthly payment. If the customer has borrowed $3000, repaid $1000 and not repaid $2000(outstanding balance)
 - Income:   Monthly Income of customer.
+
 We have two categorical columns(Default, Student) and two numerical columns(Balance, Income).
-Defining Balance: If the customer has borrowed $3000, repaid $1000 and not repaid $2000(outstanding balance)
 
 
 ## Objective
