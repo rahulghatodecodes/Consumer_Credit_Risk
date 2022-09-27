@@ -11,7 +11,7 @@ Defining Balance: If the customer has borrowed $3000, repaid $1000 and not repai
 
 
 ## Objective
-- Exploratory Data Analysis
+- Perform Exploratory Data Analysis
 - Implement a Logistic Regression Model
 
 ## Programming Language & Tools
@@ -26,7 +26,7 @@ Defining Balance: If the customer has borrowed $3000, repaid $1000 and not repai
 - Checked the missing values. 
 - Treated outliers present in the ’balance’ variable.
 
-## Inference
+## Inferences
 - Minimum & Maximum outstanding balance of the customer is $0 and $2654.32 respectively.
 - Minimum & Maximum income of the customer is $771.97 and $73554.23 respectively.
 - Out of 10k customers, 2944 are students and 7056 are not students.
