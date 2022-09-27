@@ -20,11 +20,15 @@ We have two categorical columns(Default, Student) and two numerical columns(Bala
 - MS Excel
 
 ## Actions
-- Checked the basic measures of descriptive statistics for the continuous variables(default, student, balance, income). 
-- Carried out Univariate Analysis and Bivariate Analysis. 
+- Checked the basic measures of descriptive statistics for the continuous variables(Balance, Income) and the statistics of categorical variables(Student, Default).
+- Creating Boxplots.
+- Carried out Univariate Analysis and Bivariate Analysis.
 - Checked for correlation between independent variables. 
 - Checked the missing values. 
 - Treated outliers present in the ’balance’ variable.
+- Converted Categorical Variables to Numeric variables.
+- Created train and test set.
+- Created a confusion matrix.
 
 ## Inferences
 - Minimum & Maximum outstanding balance of the customer is $0 and $2654.32 respectively.
