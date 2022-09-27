@@ -37,10 +37,11 @@ We have two categorical columns(Default, Student) and two numerical columns(Bala
 - The range of income is higher for those who do not default.
 - If the person is not a student, then there is 97% chance the person will not default and 3% chance the person will default.
 - If the person is a student, then there is 96% chance the person will not default and 4% chance the person will default.
-- Correlation between two numerical columns(balance & income), not much correlation found.
+- Correlation between two numerical columns(balance & income), no correlation found.
 
 ## Results
 Implemented logistic Regression model. Accuracy of the model was 88%.
 
 
 
+ 
