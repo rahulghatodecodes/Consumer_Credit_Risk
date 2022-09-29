@@ -19,7 +19,7 @@ We have two categorical columns(Default, Student) and two numerical columns(Bala
 - Jupyter Notebook
 - MS Excel
 
-## Actions
+## Tasks
 - Checked the basic measures of descriptive statistics for the continuous variables(Balance, Income) and the statistics of categorical variables(Student, Default).
 - Creating Boxplots.
 - Carried out Univariate Analysis and Bivariate Analysis.
