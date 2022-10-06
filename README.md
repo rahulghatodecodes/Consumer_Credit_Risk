@@ -21,7 +21,7 @@ We have two categorical columns(Default, Student) and two numerical columns(Bala
 
 ## Tasks
 - Checked the basic measures of descriptive statistics for the continuous variables(Balance, Income) and the statistics of categorical variables(Student, Default).
-- Creating Boxplots.
+- Created Boxplots.
 - Carried out Univariate Analysis and Bivariate Analysis.
 - Checked for correlation between independent variables. 
 - Checked the missing values. 
